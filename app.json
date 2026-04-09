@@ -2,8 +2,8 @@
     "name": "ArcMusic",
     "description": "A Telegram bot that streams music into group voice chats with seamless playback and control.",
     "keywords": ["telegram", "bot", "music", "go", "voice-chat"],
-    "repository": "https://github.com/tusar404/ArcMusic",
-    "website": "https://github.com/tusar404/ArcMusic",
+    "repository": "https://t.me/YwBots",
+    "website": "https://t.me/YwBots",
     "stack": "container",
     "env": {
         "API_ID": {
